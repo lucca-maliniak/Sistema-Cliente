@@ -1,4 +1,4 @@
-# Projeto Sistema de Clientes em Next.js, TypeScript e Tailwind CSS
+# Projeto Sistema de Clientes
 
 Um projeto CRUD de clientes desenvolvido utilizando Next.js, TypeScript e Tailwind CSS.
 
