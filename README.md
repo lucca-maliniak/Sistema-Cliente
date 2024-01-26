@@ -17,7 +17,7 @@ Um projeto CRUD de clientes desenvolvido utilizando Next.js, TypeScript e Tailwi
 ## Instalação
 
 1. Clone o repositório:
-git clone https://github.com/lucca-maliniak/processoSeletivoDTI
+git clone https://github.com/lucca-maliniak/Sistema-Cliente
 2. Entre na pasta: cd (pasta-do-projeto)
 3. Instale as dependências do projeto: npm install ou yarn install
 
